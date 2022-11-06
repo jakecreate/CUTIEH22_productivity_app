@@ -1,0 +1,15 @@
+.navigation {
+
+}
+
+.navigation {
+    text-align: center;
+    vertical-align: center;
+    justify-content: center;
+    color: rgb(255,255,255);
+
+}
+.navigation .col a {
+    text-align: center;
+    vertical-align: center;
+}
