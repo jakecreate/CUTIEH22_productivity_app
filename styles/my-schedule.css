@@ -1,5 +1,9 @@
 .my-schedule {
+    background-color: rgb(255, 192, 185);
+    border-radius: 20px;
     justify-content: center;
     text-align: center;
-
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
 }
